@@ -1,5 +1,4 @@
-# 1. Copie o código em um arquivo chamado: questao4.py
-# 2. Coloque na raiz do projeto (mesmo nível que "Base de Dados")
+
 # 3. Execute:
 python questao4.py
 
