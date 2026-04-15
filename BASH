@@ -1,0 +1,22 @@
+# 1. Copie o código em um arquivo chamado: questao4.py
+# 2. Coloque na raiz do projeto (mesmo nível que "Base de Dados")
+# 3. Execute:
+python questao4.py
+
+# 4. Digite um município:
+# Digite o nome do município: MACAPA
+
+# 5. Resultado esperado:
+# Processando...
+# 
+# [VERSÃO SERIAL]
+# Tempo: 2.45 segundos
+# Ocorrências encontradas: 156
+# 
+# [VERSÃO PARALELA]
+# Tempo: 1.32 segundos
+# Ocorrências encontradas: 156
+# 
+# [COMPARAÇÃO]
+# Speedup: 1.86x (paralela é 86% mais rápida!)
+# Arquivo MACAPA.csv criado com sucesso!
